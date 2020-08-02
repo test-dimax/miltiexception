@@ -1,0 +1,11 @@
+git{
+    "name": "test-dimax/multiexception",
+    "type": "metapackege",
+    "authors": [
+        {
+            "name": "Dmitry",
+            "email": "immortall666l@mail.ru"
+        }
+    ],
+    "require": {}
+}
